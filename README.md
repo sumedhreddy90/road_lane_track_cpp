@@ -29,7 +29,5 @@ There's two nodes inside this package:
 
 
     
-    x-special/nautilus-clipboard
-copy
-file:///home/sumedh/Pictures/Screenshot%20from%202021-06-10%2014-30-39.png
+file:///home/sumedh/Pictures/Screenshot%20from%202021-06-10%2014-30-39.png![image](https://user-images.githubusercontent.com/24978535/121496993-9d1e1980-c9f8-11eb-9400-d0e9f6a59090.png)
 

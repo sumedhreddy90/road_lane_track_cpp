@@ -15,8 +15,7 @@ VideoParser::VideoParser() : private_nh("~"), _img_transport_handle(nh) {
   }
   getVidParam();
   setPubSub();
-  _video_timer = nh.createTimer(ros::Duration(1.0 / _video_fps),
-                                &VideoParser::pubFrame, this);
+  _video_timer = nh.createTimer(ros::Duration(1.0 / _video_fps),&VideoParser::pubFrame, this);
 }
 
 void VideoParser::pubFrame(const ros::TimerEvent& timer_event) {

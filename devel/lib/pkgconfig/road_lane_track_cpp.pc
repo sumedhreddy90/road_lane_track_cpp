@@ -1,0 +1,8 @@
+prefix=/home/sumedh/catkin_ws/devel
+
+Name: road_lane_track_cpp
+Description: Description of road_lane_track_cpp
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
